@@ -1,0 +1,41 @@
+header 
+{
+	text-align: center;
+	font-size: 45px;
+	text-decoration: underline;
+	color: white;
+}
+
+.weeksheader
+{
+	font-size: 30px;
+	color: white;
+}
+
+.calenderpic
+{
+	align-content: center;
+	width: 250px;
+	height: 200px;
+}
+
+img 
+{
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+p
+{
+	color:white;
+}
+
+.textunder
+{
+	color: white;
+	text-align: center;
+}
+
+
+
